@@ -89,7 +89,7 @@ This task helped me understand how to use Nmap for active network scanning and b
 
 ## Author
 Name: Rakshita Raju Bolashetti  
-Internship: Cybersecurity Internship (Elevate Labs)  
-Duration: 45 Days (Remote)  
+Internship: Cybersecurity Internship (Elevate Labs)    
 Task: Network Scanning and Reconnaissance  
-Date: October 2025
+Date: 10 October 2025
+
