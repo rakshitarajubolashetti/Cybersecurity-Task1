@@ -1,0 +1,22 @@
+# Nmap 7.98 scan initiated Mon Oct 20 11:03:43 2025 as: nmap -sS -T4 -oN scan_common_ports.txt 172.20.10.1 172.20.10.4
+Nmap scan report for 172.20.10.1
+Host is up (0.0034s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT      STATE SERVICE
+21/tcp    open  ftp
+53/tcp    open  domain
+49152/tcp open  unknown
+62078/tcp open  iphone-sync
+MAC Address: 8A:20:0D:99:4B:64 (Unknown)
+
+Nmap scan report for 172.20.10.4
+Host is up (0.000017s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+1433/tcp open  ms-sql-s
+5357/tcp open  wsdapi
+
+# Nmap done at Mon Oct 20 11:03:44 2025 -- 2 IP addresses (2 hosts up) scanned in 1.51 seconds

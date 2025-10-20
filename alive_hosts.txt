@@ -1,0 +1,7 @@
+# Nmap 7.98 scan initiated Mon Oct 20 11:02:28 2025 as: nmap -sn -oN alive_hosts.txt 172.20.10.0/28
+Nmap scan report for 172.20.10.1
+Host is up (0.0049s latency).
+MAC Address: 8A:20:0D:99:4B:64 (Unknown)
+Nmap scan report for 172.20.10.4
+Host is up.
+# Nmap done at Mon Oct 20 11:02:31 2025 -- 16 IP addresses (2 hosts up) scanned in 2.54 seconds

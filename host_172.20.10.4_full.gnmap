@@ -1,0 +1,4 @@
+# Nmap 7.98 scan initiated Mon Oct 20 11:05:15 2025 as: nmap -sS -sV -T4 -oA host_172.20.10.4_full 172.20.10.4
+Host: 172.20.10.4 ()	Status: Up
+Host: 172.20.10.4 ()	Ports: 135/open/tcp//msrpc//Microsoft Windows RPC/, 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds?///, 1433/open/tcp//ms-sql-s//Microsoft SQL Server 2022 16.00.1150/, 5357/open/tcp//http//Microsoft HTTPAPI httpd 2.0 (SSDP|UPnP)/	Ignored State: closed (995)
+# Nmap done at Mon Oct 20 11:05:27 2025 -- 1 IP address (1 host up) scanned in 11.94 seconds

@@ -1,0 +1,4 @@
+# Nmap 7.98 scan initiated Mon Oct 20 11:04:00 2025 as: nmap -sS -sV -T4 -oA host_172.20.10.1_full 172.20.10.1
+Host: 172.20.10.1 ()	Status: Up
+Host: 172.20.10.1 ()	Ports: 21/open/tcp//tcpwrapped///, 53/open/tcp//domain//(generic dns response: NXDOMAIN)/, 49152/open/tcp//tcpwrapped///, 62078/open/tcp//tcpwrapped///	Ignored State: closed (996)
+# Nmap done at Mon Oct 20 11:04:14 2025 -- 1 IP address (1 host up) scanned in 13.74 seconds
